@@ -1,4 +1,8 @@
-# baumarten-evaluation
-evaluate tree species maps 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wiesehahn/baumarten-evaluation/master)
+# baumarten-evaluation
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Es soll die Baumartenkarte aus dem F³ Projekt analysiert werden und Vorschläge für Verbesserungen gemacht werden.
+
